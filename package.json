@@ -2,7 +2,7 @@
   "name": "hide-skype-avatars",
   "version": "0.0.1",
   "description": "Hide Avatars in New Skype Web App",
-  "main": "hideSkypeAvatars.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
