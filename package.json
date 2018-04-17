@@ -1,0 +1,16 @@
+{
+  "name": "hide-skype-avatars",
+  "version": "0.0.1",
+  "description": "Hide New Skype\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[CAvatars\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[DWeb Skype Avatars",
+  "main": "hideSkypeAvatars.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skype",
+    "avatars",
+    "hide"
+  ],
+  "author": "Atef Ben Ali <atef.bettaib@gmail.com>",
+  "license": "ISC"
+}
