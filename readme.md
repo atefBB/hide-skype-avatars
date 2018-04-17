@@ -1,1 +1,1 @@
-#Hide Avatars in New Skype Web App
+# Hide Avatars in New Skype Web App
