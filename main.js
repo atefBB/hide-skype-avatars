@@ -13,5 +13,6 @@ chrome.browserAction.onClicked.addListener(function() {
           + 'for(var avatarImg of avatarsImgs) {'
           +   'avatarImg.setAttribute("style", "display: none;");'
           + '}'
+          + 'document.getElementById("chatInputAreaWithQuotes").style.direction = "rtl"'
   });
 });
